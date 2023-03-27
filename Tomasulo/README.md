@@ -7,3 +7,6 @@ Tomasulo Algorithm Simulation
 How to run:
 cd code;
 python main.py
+
+
+To change the issue width go into issue.py line 179 to adjust(1-4).
