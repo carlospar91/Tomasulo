@@ -7,4 +7,3 @@ Tomasulo Algorithm Simulation
 How to run:
 cd code;
 python main.py
-/Users/CARLOSPARLOUR/Documents/Python/Tomasulo/README.md
